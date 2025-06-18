@@ -29,26 +29,21 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/imridd/your-repo-name.git
    cd your-repo-name
-````
 
 2. Install dependencies:
 
-   ```bash
    npm install
-   ```
-
+  
 3. Start the development server:
 
-   ```bash
+  
    npm start
-   ```
+   
 
 4. To build for production:
 
-   ```bash
    npm run build
    ```
 
@@ -62,12 +57,12 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 * Deploying React apps with Netlify
 * Handling favicon and metadata updates
 
----
+
 
 ## 📬 Contact
 
 📧 Email: [ridha6753@gmail.com](mailto:ridha6753@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/imridha](https://linkedin.com/in/)
+🔗 LinkedIn: [linkedin.com/in/ridha-rajasekar-440684250/]([https://linkedin.com/in/](https://www.linkedin.com/in/ridha-rajasekar-440684250/))
 💼 GitHub: [github.com/imridd](https://github.com/imridd)
 
 ---
