@@ -59,7 +59,6 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 ## 📬 Contact
 
 📧 Email: [ridha6753@gmail.com](mailto:ridha6753@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/ridha-rajasekar-440684250/]([https://linkedin.com/in/](https://www.linkedin.com/in/ridha-rajasekar-440684250/)
 💼 GitHub: [github.com/imridd](https://github.com/imridd)
 
 ---
