@@ -45,9 +45,6 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 4. To build for production:
 
    npm run build
-   ```
-
----
 
 ## 🧠 What I Learned
 
@@ -62,7 +59,7 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 ## 📬 Contact
 
 📧 Email: [ridha6753@gmail.com](mailto:ridha6753@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/ridha-rajasekar-440684250/]([https://linkedin.com/in/](https://www.linkedin.com/in/ridha-rajasekar-440684250/))
+🔗 LinkedIn: [linkedin.com/in/ridha-rajasekar-440684250/]([https://linkedin.com/in/](https://www.linkedin.com/in/ridha-rajasekar-440684250/)
 💼 GitHub: [github.com/imridd](https://github.com/imridd)
 
 ---
@@ -71,9 +68,9 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 
 Thanks to everyone who supported me on this journey — my friends, mentors, and the open-source community.
 
----
+
 
 ⭐️ If you like this project, feel free to star the repo and share your thoughts!
 
-```
+
 
