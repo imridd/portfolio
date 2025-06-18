@@ -9,7 +9,7 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React.js
+- **Frontend**: React.js,three.js
 - **Styling**: CSS3, Flexbox, Grid
 - **Hosting**: Netlify
 
@@ -64,16 +64,10 @@ Welcome to **Ridfolio** — a responsive and modern personal portfolio website s
 
 ---
 
-## 📷 Screenshots
-
-> *(Add screenshots of your website here if you like)*
-
----
-
 ## 📬 Contact
 
-📧 Email: [imridha.official@gmail.com](mailto:imridha.official@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/imridha](https://linkedin.com/in/imridha)
+📧 Email: [ridha6753@gmail.com](mailto:ridha6753@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/imridha](https://linkedin.com/in/)
 💼 GitHub: [github.com/imridd](https://github.com/imridd)
 
 ---
